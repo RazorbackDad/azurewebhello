@@ -1,3 +1,3 @@
 # azurewebhello
 
-File adds
+This is the readme for Azure Hello World website
